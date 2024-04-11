@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anhnthat from <a href="https://www.harmony-at.com/en">HarmonyAT Vietnam</a>
+- 👋 Hi, I’m @anhnthat from <a href="https://www.harmony-at.com/en" target="_blank">HarmonyAT Vietnam</a>
 - I'm Web full-stack developer.
 
 <!---
