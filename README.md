@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anhnthat from <a href="https://www.harmony-at.com/en">HarmonyAT Vietnam</a>
-I'm fullstack developer
+- I'm Web full-stack developer.
 
 <!---
 anhnthat/anhnthat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
